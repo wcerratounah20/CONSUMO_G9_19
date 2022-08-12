@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 00;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.list-unstyled{
+    text-align: justify;    
+}
+
+
+/*INFORMACION DE FORMULARIO DE PAGOS*/
+.PAGOS{
+    display: flex;
+    margin: 30px;
+    object-fit: cover;
+}
+
+.seccionPAGOS{  
+    display: flex; 
+    border: 5px;
+}
+
+/*INFORMACION DE FORMULARIO DE CLIENTES*/
+.CLIENTES{
+    display: flex;
+    margin: 30px;
+    object-fit: cover;
+}
+
+.seccionCLIENTES{  
+    display: flex; 
+    border: 5px;
+}
+
+/*INFORMACION DE FORMULARIO DE PEDIDOS*/
+.PEDIDOS{
+    display: flex;
+    margin: 30px;
+    object-fit: cover;
+}
+
+.seccionPEDIDOS{  
+    display: flex; 
+    border: 5px;
+}
+
+/*INFORMACION DE FORMULARIO DE PRODUCTOS*/
+.PRODUCTOS{
+    display: flex;
+    margin: 30px;
+    object-fit: cover;
+}
+
+.seccionPRODUCTOS{  
+    display: flex; 
+    border: 5px;
+}
+

@@ -123,6 +123,7 @@ function ActualizarCliente(idcliente){
     });
     alert('Aviso');
     CargarClientes();
+
 }
 
 function EliminarCliente(idcliente){
